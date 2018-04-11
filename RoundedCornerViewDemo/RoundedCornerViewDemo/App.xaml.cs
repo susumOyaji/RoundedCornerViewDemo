@@ -13,7 +13,7 @@ namespace RoundedCornerViewDemo
 		{
 			InitializeComponent();
 
-			MainPage = new RoundedCornerViewDemo.MainPage();
+            MainPage = new RoundedCornerViewDemo.RoundedCornerViewPage();//MainPage();
 		}
 
 		protected override void OnStart ()

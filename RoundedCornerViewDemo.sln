@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundedCornerViewDemo.Andro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundedCornerViewDemo.iOS", "RoundedCornerViewDemo\RoundedCornerViewDemo.iOS\RoundedCornerViewDemo.iOS.csproj", "{00614363-5B74-4A43-84E5-4406D50BFBA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundedCornerViewDemo", "RoundedCornerViewDemo\RoundedCornerViewDemo\RoundedCornerViewDemo.csproj", "{BD3B4F5B-8BC1-4360-A1BF-8BFC2325EFE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoundedCornerViewDemo", "RoundedCornerViewDemo\RoundedCornerViewDemo\RoundedCornerViewDemo.csproj", "{BD3B4F5B-8BC1-4360-A1BF-8BFC2325EFE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
